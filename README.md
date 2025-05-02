@@ -1,4 +1,4 @@
 # sanjib_firstREPO
 This is my first Git Repository.
 <br>
-Author - Sanjib Pandey
+Author - Sanjib (skp)
